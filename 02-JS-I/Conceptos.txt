@@ -1,0 +1,27 @@
+Variables
+
+un dato que se le separa un lugar en la memoria para luego ser utlizado
+cuando sea necesario
+
+----------------------------------------------------------------------------------
+Strings
+
+caracteres que estan entre comillas "" ya que pueden ser letras, numeros, simbolos
+
+----------------------------------------------------------------------------------
+Funciones (argumentos, return)
+
+es como un codigo aparte dentro del programa que se lo puede utilizar muchas
+veces invocandolo con su nombre
+
+----------------------------------------------------------------------------------
+Declaraciones if
+
+es una consigna en la que el operador si cumple realiza un proceso y si no se
+va por otro camino a realizar otro
+
+----------------------------------------------------------------------------------
+Valores booleanos (true, false)
+
+son valores binarios, que quiere decir esto? que solo puede tener 2 valores
+1 o 0, hay corriente o no hay o en este caso verdadero (true) o faso (false)

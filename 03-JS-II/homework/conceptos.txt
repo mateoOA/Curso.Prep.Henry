@@ -1,0 +1,14 @@
+for
+es un bucle. usado para correr codigo un numero determinado de veces
+
+&&
+
+and-- y -- simbolo usado para condicionar un 'y' ej si se cumple esto y esto
+
+||
+
+or-- o --simbolo usado para condicionar un 'o' ej si se cumpe esto o esto
+
+!
+
+not-- no -- sibolo de negacion ej !true (no es verdad)

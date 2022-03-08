@@ -1,0 +1,33 @@
+var= variable. puede ser pisada
+
+const= constante no puede ser pisada porque es constante, ej const PI = 3.1416
+
+tipos de datos
+
+str =  string . hilo de letras siempre entre comillas
+
+---
+
+num = numbers  . numeros reales, negativos
+
+---
+
+booleano
+
+dos posibles resultados 
+
+true o false
+
+---
+
+null & undefined
+
+
+operadores matematicos 
+
+ + - * / =
+
+% resto de division 
+
+
+las funciones sirven para agrupar codigos que voy a reutilizar 

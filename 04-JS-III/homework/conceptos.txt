@@ -1,0 +1,3 @@
+Array
+
+es una variable con varios datos dentro, que pueden ser de todo tipo

@@ -1,0 +1,19 @@
+	* Objetos
+
+    son collecciones de propiedades
+
+	* Propiedades
+	
+    una asociacion con un nombre y un valor
+    
+    * Métodos
+	
+    una funcion la que es propiedad de un objeto
+    
+    * Bucle `for…in`
+	
+    son todas las propiedades enumerables de un objeto
+    
+    * Notación de puntos vs notación de corchetes
+
+    
